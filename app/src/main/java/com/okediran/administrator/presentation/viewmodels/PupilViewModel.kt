@@ -6,6 +6,7 @@ import com.okediran.administrator.data.models.Pupil
 import com.okediran.administrator.data.models.PupilRequest
 import com.okediran.administrator.data.models.PupilResponse
 import com.okediran.administrator.data.models.ResultState
+import com.okediran.administrator.data.repositories.IPupilRepository
 import com.okediran.administrator.data.repositories.PupilRepository
 import com.okediran.administrator.extensions.handleException
 import dagger.hilt.android.lifecycle.HiltViewModel
